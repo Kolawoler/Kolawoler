@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics/Data science/Machine learning /Data Engineer Remote Jobs(Intern)
 - 🌱 I’m currently developing skills on Machine learning projects.
 - 💞️ I’m looking to collaborate with other developers that will help improve my codes, feedbacks and assist where needed.
-- 📫 How to reach me (070871
+- 📫 How to reach me (kolawolerotimi938@gmail.com)
 
 <!---
 Kolawoler/Kolawoler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
