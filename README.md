@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rotimi Kolawole, A Data scientist, machine leaerning engineer and Data analyst
 - 👀 I’m interested in Data Analytics/Data science/Machine learning /Data Engineer Remote Jobs
-- 🌱 I’m currently developing skills on Machine learning projects.
 - 💞️ I’m looking to collaborate with other developers that will help improve my codes, feedbacks and assist where needed.
 - 📫 How to reach me (Rotimikolawole938@gmail.com)
 
